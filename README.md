@@ -1,5 +1,6 @@
 # P
-Portifolio
+Portfolio
+
 Hi, this a sample of my work.   
 
 1. Capstone_draft-Copy1 - In this project I look at the 2017 Boston Marathon dataset from Kaggle.  I use EDA and statistics to answer the following questions:
