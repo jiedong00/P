@@ -13,3 +13,6 @@ Hi, this a sample of my work.
 3. Untitled8 - In this project I use unsupervised learning and anomaly detection to see if I can predict credit card fraud.     
 
 4. senior_seminar2_heat_equation_final_version.pdf - This is a project I work on senior year where I used the Heat Equations to model runaway exothermic reactions.
+
+
+Resume - https://docs.google.com/document/d/1uiDO1zRyT_zTadDVmkxFUIvPfmvKoACfLlMTTSAylzk/edit?usp=sharing
