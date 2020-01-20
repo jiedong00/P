@@ -10,5 +10,6 @@ Hi, this a sample of my work.
   
 2. Supervised_Learning_UFC_fight_predictions - I built some models to see how they would do predicting fights.  I wanted to see I can improve on the current UFC model.  
 
-3.  Untitled8 - In this project I use unsupervised learning and anomaly detection to see if I can predict credit card fraud.     
+3. Untitled8 - In this project I use unsupervised learning and anomaly detection to see if I can predict credit card fraud.     
 
+4. senior_seminar2_heat_equation_final_version.pdf - This is a project I work on senior year where I used the Heat Equations to model runaway exothermic reactions.
