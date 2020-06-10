@@ -1,7 +1,7 @@
 # P
 Portfolio
 
-Hi, thanks for stopping by!  This is a sample of my projects that I'm proud of.   
+Hi, thanks for stopping by!  This is a sample of my projects.   
 
 1. Unsupervised fraud(Analmaly) Detection - 'Untitled8' - In this project I use ideas unsupervised learning and anomaly detection to see if I can predict credit card fraud.  I used to non-linear dimensionality reduction to simplify the problem and map all the data from higher dimensions down to a one dimensional subspace call anomaly score.  Then in this lower dimension the decision is made.        
   
